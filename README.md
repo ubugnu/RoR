@@ -12,6 +12,5 @@
 
 # Trucs et astuces
 
-* [Tester rapidement des snippets avec zeus]()
-* [Générer une nouvelle application avec RSpec et FactoryGirl]()
-* [Utilisation du workflow git "gitflow"]()
+* [Tester rapidement des snippets avec zeus](https://github.com/ubugnu/RoR/wiki/Tester-rapidement-des-snippets-avec-zeus)
+* [Générer une nouvelle application avec RSpec et FactoryGirl](https://github.com/ubugnu/RoR/wiki/G%C3%A9n%C3%A9rer-une-application-rails-avec-RSpect-et-FactoryGirl)
